@@ -1,0 +1,42 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    it was easy to look into a smaller file andcomparing line by line
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    you can see changes yu made and help you find out why some changes were made and above all if you made a mistake, you can find it by comarping.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    it is better to do it manually becasue you can save it when the you are sure that your program is in good working conditions. whereas
+	automatic save may save it in a state when it was disfuuntional and you have no way to figure it out. There are draw backs too, you may forget to save it
+	
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+   google docs is just information and usually are do not have interrelated information. Git on the otherhand is specifically for coding
+   and involve multiple files like html, css, java, res files, all of these needs to work cohrently and thus need be be updated simultaniuosly.
+
+How can you use the commands git log and git diff to view the history of files?
+
+   i used Git Bash, typing git log was easy, but i was not prepared for the end, it took me a while to understand what it was doing. it only 
+   gives you last two commit, and you have to press enter many times to see all the commit. more frusttating part was what to do next, as it was not 
+   accepting nay input. the word to type was "q" to quit git log. then i went back to prompt. next challange was with copy and past. aparently either you can usemouse 
+   or ctrl + insert for copy and shit+inster for past.
+   there is also a commond to make it show in color but for me it was default so i did not use it.
+   I couild not use last diigt to make differnces.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    if you have a working version, and saved, then one can make chnages and revert to previous working if something oges bad.
+	since we always have a working version, so we are more confident with making changes.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+   I did not really made those extra features as yet, but note pad was already configured for git so, i just typed start notepad++ and it opend the file
